@@ -1,0 +1,21 @@
+ Magistrelny <- concept_sanatorium;
+=> nrel_main_idtf:
+   [Magistrelny]
+   (* <- lang_en;; <- name_en;;*);
+   [Магистральный]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_open_time:
+    [7:30]
+    (* <- concept_open_time;;*);
+=>nrel_close_time:
+    [22:40]
+    (* <- concept_close_time;;*);
+=> nrel_phone_number:
+   [8 016 347-07-90]
+   (* <- concept_phone_number;;*);
+=> nrel_region:
+   [brest_region]
+   (* <- concept_region;;*);
+=> nrel_address:
+   [ул. Гаевая 61, Барановичи]
+   (* <- concept_address;;*);

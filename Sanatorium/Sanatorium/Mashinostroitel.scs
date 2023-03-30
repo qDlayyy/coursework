@@ -1,0 +1,21 @@
+ Mashinostroitel <- concept_sanatorium;
+=> nrel_main_idtf:
+   [Mashinostroitel]
+   (* <- lang_en;; <- name_en;;*);
+   [Машиностроитель]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_open_time:
+    [-]
+    (* <- concept_open_time;;*);
+=>nrel_close_time:
+    [-]
+    (* <- concept_close_time;;*);
+=> nrel_phone_number:
+   [8 023 296-14-97]
+   (* <- concept_phone_number;;*);
+=> nrel_region:
+   [gomel_region]
+   (* <- concept_region;;*);
+=> nrel_address:
+   [ул. Шоссейная 41/56, Гомель]
+   (* <- concept_address;;*);

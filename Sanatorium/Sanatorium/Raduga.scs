@@ -1,0 +1,21 @@
+Rainbow <- concept_sanatorium;
+=> nrel_main_idtf:
+   [Rainbow]
+   (* <- lang_en;; <- name_en;;*);
+   [Радуга]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_open_time:
+    [8:00]
+    (* <- concept_open_time;;*);
+=>nrel_close_time:
+    [17:00]
+    (* <- concept_close_time;;*);
+=> nrel_phone_number:
+   [8 015 465-52-66]
+   (* <- concept_phone_number;;*);
+=> nrel_region:
+   [Grodno_region]
+   (* <- concept_region;;*);
+=> nrel_address:
+   [Гродненская обл. Докудовский сельсовет, 57]
+   (* <- concept_address;;*);

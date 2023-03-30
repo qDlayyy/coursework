@@ -1,0 +1,21 @@
+Radon <- concept_sanatorium;
+=> nrel_main_idtf:
+   [Radon]
+   (* <- lang_en;; <- name_en;;*);
+   [Радон]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_open_time:
+    [8:30]
+    (* <- concept_open_time;;*);
+=>nrel_close_time:
+    [19:30]
+    (* <- concept_close_time;;*);
+=> nrel_phone_number:
+   [8 017 282-53-40]
+   (* <- concept_phone_number;;*);
+=> nrel_region:
+   [grodno_region]
+   (* <- concept_region;;*);
+=> nrel_address:
+   [Боровики, 10, Даниловичский сельсовет]
+   (* <- concept_address;;*);

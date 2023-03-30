@@ -1,0 +1,21 @@
+ Zolotye_peski <- concept_sanatorium;
+=> nrel_main_idtf:
+   [Zolotye_peski]
+   (* <- lang_en;; <- name_en;;*);
+   [Золотые пески]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_open_time:
+    [-]
+    (* <- concept_open_time;;*);
+=>nrel_close_time:
+    [-]
+    (* <- concept_close_time;;*);
+=> nrel_phone_number:
+   [8 023 296-35-17]
+   (* <- concept_phone_number;;*);
+=> nrel_region:
+   [gomel_region]
+   (* <- concept_region;;*);
+=> nrel_address:
+   [Шарпиловка]
+   (* <- concept_address;;*);

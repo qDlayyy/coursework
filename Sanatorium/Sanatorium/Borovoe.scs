@@ -1,0 +1,21 @@
+Borovoe <- concept_sanatorium;
+=> nrel_main_idtf:
+   [Borovoe]
+   (* <- lang_en;; <- name_en;;*);
+   [Боровое]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_open_time:
+    [8:00]
+    (* <- concept_open_time;;*);
+=>nrel_close_time:
+    [17:00]
+    (* <- concept_close_time;;*);
+=> nrel_phone_number:
+   [8 029 344-20-28]
+   (* <- concept_phone_number;;*);
+=> nrel_region:
+   [vitebsk_region]
+   (* <- concept_region;;*);
+=> nrel_address:
+   [д.Будачи, ул.Санаторий Боровое 1/7 Будачи Бегомльский]
+   (* <- concept_address;;*);

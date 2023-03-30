@@ -1,0 +1,21 @@
+Lenin_sanatorium <- concept_sanatorium;
+=> nrel_main_idtf:
+   [Lenin sanatorium]
+   (* <- lang_en;; <- name_en;;*);
+   [Санаторий имени Ленина]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_open_time:
+    [8:00]
+    (* <- concept_open_time;;*);
+=>nrel_close_time:
+    [16:30]
+    (* <- concept_close_time;;*);
+=> nrel_phone_number:
+   [8 044 596-40-40]
+   (* <- concept_phone_number;;*);
+=> nrel_region:
+   [mogilev_region]
+   (* <- concept_region;;*);
+=> nrel_address:
+   [ул. Чонгарская 193, Бобруйск ]
+   (* <- concept_address;;*);

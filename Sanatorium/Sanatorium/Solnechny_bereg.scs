@@ -1,0 +1,21 @@
+ Solnechny_bereg <- concept_sanatorium;
+=> nrel_main_idtf:
+   [Solnechny bereg]
+   (* <- lang_en;; <- name_en;;*);
+   [Солнечный берег]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_open_time:
+    [-]
+    (* <- concept_open_time;;*);
+=>nrel_close_time:
+    [-]
+    (* <- concept_close_time;;*);
+=> nrel_phone_number:
+   [8 023 405-67-94]
+   (* <- concept_phone_number;;*);
+=> nrel_region:
+   [gomel_region]
+   (* <- concept_region;;*);
+=> nrel_address:
+   [ул. Горецкого 69.306, Гомель]
+   (* <- concept_address;;*);

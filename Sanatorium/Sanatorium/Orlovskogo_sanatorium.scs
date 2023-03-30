@@ -1,0 +1,21 @@
+Orlovskogo_sanatorium <- concept_sanatorium;
+=> nrel_main_idtf:
+   [Orlovskogo sanatorium]
+   (* <- lang_en;; <- name_en;;*);
+   [Санаторий имени Орловского]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_open_time:
+    [-]
+    (* <- concept_open_time;;*);
+=>nrel_close_time:
+    [-]
+    (* <- concept_close_time;;*);
+=> nrel_phone_number:
+   [8 022 377-25-23]
+   (* <- concept_phone_number;;*);
+=> nrel_region:
+   [mogilev_region]
+   (* <- concept_region;;*);
+=> nrel_address:
+   [ул. Орловского 2, Кировск]
+   (* <- concept_address;;*);

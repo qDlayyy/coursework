@@ -1,0 +1,21 @@
+Rassvet <- concept_sanatorium;
+=> nrel_main_idtf:
+   [Rassvet]
+   (* <- lang_en;; <- name_en;;*);
+   [Рассвет]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_open_time:
+    [9:00]
+    (* <- concept_open_time;;*);
+=>nrel_close_time:
+    [19:00]
+    (* <- concept_close_time;;*);
+=> nrel_phone_number:
+   [8 017 282-53-84]
+   (* <- concept_phone_number;;*);
+=> nrel_region:
+   [minsk_region]
+   (* <- concept_region;;*);
+=> nrel_address:
+   [81-й км 1, Осовецкий сельсовет]
+   (* <- concept_address;;*);

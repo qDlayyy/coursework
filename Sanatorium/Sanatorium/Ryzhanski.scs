@@ -1,0 +1,21 @@
+ Ryzhanski <- concept_sanatorium;
+=> nrel_main_idtf:
+   [Ryzhanski]
+   (* <- lang_en;; <- name_en;;*);
+   [Ружанский]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_open_time:
+    [8:30]
+    (* <- concept_open_time;;*);
+=>nrel_close_time:
+    [22:00]
+    (* <- concept_close_time;;*);
+=> nrel_phone_number:
+   [8 044 744-02-03]
+   (* <- concept_phone_number;;*);
+=> nrel_region:
+   [brest_region]
+   (* <- concept_region;;*);
+=> nrel_address:
+   [Ружанский сельсовет, деревня Заполье, 1А, Заполье]
+   (* <- concept_address;;*);

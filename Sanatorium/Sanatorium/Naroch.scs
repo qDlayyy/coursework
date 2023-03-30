@@ -1,0 +1,21 @@
+Naroch <- concept_sanatorium;
+=> nrel_main_idtf:
+   [Naroch]
+   (* <- lang_en;; <- name_en;;*);
+   [Нарочь]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_open_time:
+    [-]
+    (* <- concept_open_time;;*);
+=>nrel_close_time:
+    [-]
+    (* <- concept_close_time;;*);
+=> nrel_phone_number:
+   [8 044 750-25-98]
+   (* <- concept_phone_number;;*);
+=> nrel_region:
+   [minsk_region]
+   (* <- concept_region;;*);
+=> nrel_address:
+   [ул. Зеленая 1 к.п.Нарочь Мядельский р-н (Минская область BY, ул. Ленинская 1, Нарач]
+   (* <- concept_address;;*);

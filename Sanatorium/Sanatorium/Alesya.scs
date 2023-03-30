@@ -1,0 +1,21 @@
+Alesya <- concept_sanatorium;
+=> nrel_main_idtf:
+   [Alesya]
+   (* <- lang_en;; <- name_en;;*);
+   [Алеся]
+   (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_open_time:
+    [9:00]
+    (* <- concept_open_time;;*);
+=>nrel_close_time:
+    [17:00]
+    (* <- concept_close_time;;*);
+=> nrel_phone_number:
+   [8 016 523-14-45]
+   (* <- concept_phone_number;;*);
+=> nrel_region:
+   [brest_region]
+   (* <- concept_region;;*);
+=> nrel_address:
+   [Брестская область, Республика Беларусь, д. Завышье]
+   (* <- concept_address;;*);
